@@ -252,12 +252,7 @@ Possible future improvements include:
 🗺️ Location-aware agricultural guidance
 ☁️ Cloud-based model optimization
 📈 Disease monitoring over time
-👩‍💻 Project Author
 
-Nidha Hussain
-
-B.E. Computer Science & Engineering
-T. John Institute of Technology, Bengaluru
 
 Expected Graduation: May 2027
 
